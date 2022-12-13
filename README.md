@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **languages, linguistics**
 
-- 📄 Know about my experiences [-> linkedin: margot-berthelin](-> linkedin: margot-berthelin)
+- 📄 Know about my experiences (-> linkedin: margot-berthelin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
