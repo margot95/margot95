@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently on the last week of **Le Wagon Data Science Bootcamp**
 
-- 🌱 I’m currently learning **Transformers, GPT-3**
+- 🌱 I’m currently learning **PyTorch**
 
 - 👯 I’m looking to collaborate on **NLP projects**
 
