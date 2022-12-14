@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **languages, linguistics**
 
-- 📄 Know about my experiences (-> linkedin: margot-berthelin)
+- 📄 Know more about my experiences [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/margot-berthelin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
