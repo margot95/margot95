@@ -11,12 +11,10 @@
 
 - 💬 Ask me about **languages, linguistics**
 
-- 📫 How to reach me **berthelinmargot@gmail.com**
+- 📫 How to reach me : **berthelinmargot@gmail.com**
 
 - ⚡ Other interests : Sewing (clothes), baking, hiking, badminton...
 
-
-- 📄 Know more about my experiences [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/margot-berthelin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
