@@ -3,13 +3,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=margot95" alt="margot95" /></a> </p>
 
-- 🔭 I’m currently on the last week of **Le Wagon Data Science Bootcamp**
+- 🔭 I’ve attended **Le Wagon Data Science Bootcamp** in Zurich
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning working on a little Wordle game project, to learn Dash
 
 - 👯 I’m looking to collaborate on **NLP projects**
 
 - 💬 Ask me about **languages, linguistics**
+
+- 📫 How to reach me **berthelinmargot@gmail.com**
+
+- ⚡ Other interests : Sewing (clothes), baking, hiking, badminton...
+
 
 - 📄 Know more about my experiences [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/margot-berthelin/)
 
