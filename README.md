@@ -5,7 +5,7 @@
 
 - 🔭 I’ve attended **Le Wagon Data Science Bootcamp** in Zurich
 
-- 🌱 I’m currently working on a little Wordle game project on Discord
+- 🌱 I’m currently working on a little Wordle game project in ReactJS
 
 - 👯 I’m looking to collaborate on **NLP projects**
 
