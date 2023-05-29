@@ -5,15 +5,13 @@
 
 - 🔭 I’ve attended **Le Wagon Data Science Bootcamp** in Zurich
 
-- 🌱 I’m currently working on a little Wordle game project in ReactJS
+- 🌱 
 
 - 👯 I’m looking to collaborate on **NLP projects**
 
 - 💬 Ask me about **languages, linguistics**
 
 - 📫 How to reach me : **berthelinmargot@gmail.com**
-
-- ⚡ Other interests : Sewing (clothes), baking, hiking, badminton...
 
 
 <h3 align="left">Connect with me:</h3>
