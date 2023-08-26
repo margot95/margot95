@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Margot</h1>
 <h3 align="center">A passionate computational linguist from France, based in Zurich, Switzerland</h3>
 
-- 🔭 I’m currently on the last week of **Le Wagon Data Science Bootcamp**
+- 🔭 I completed **Le Wagon Data Science Bootcamp**
 
 - 🌱 I’m currently learning **Transformers, GPT-3**
 
@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **languages, linguistics**
 
-- 📄 Know about my experiences [-> linkedin: margot-berthelin](-> linkedin: margot-berthelin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
