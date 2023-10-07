@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Margot</h1>
-<h3 align="center">A passionate computational linguist from France, based in Zurich, Switzerland</h3>
+<h3 align="center">A passionate computational linguist based in Zurich, Switzerland</h3>
 
 - 🔭 I completed **Le Wagon Data Science Bootcamp**
 
