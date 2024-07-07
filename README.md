@@ -1,18 +1,7 @@
-<h1 align="center">Hi 👋, I'm Margot</h1>
-<h3 align="center">A passionate computational linguist based in Zurich, Switzerland</h3>
-
-- 🔭 I completed **Le Wagon Data Science Bootcamp**
-
-- 🌱 I’m currently learning **Transformers, GPT-3**
-
-- 👯 I’m looking to collaborate on **NLP projects**
-
-- 💬 Ask me about **languages, linguistics**
-
+<h1 align="center">Hi 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/margot-berthelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="margot-berthelin" height="30" width="40" /></a>
 <a href="https://kaggle.com/margot95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="margot95" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/margot b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="margot b" height="30" width="40" /></a>
 </p>
